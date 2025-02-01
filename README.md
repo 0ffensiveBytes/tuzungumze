@@ -30,36 +30,36 @@ making it easier to solve complex problems, generate creative ideas, and synthes
    ```
 
 2. **Install the required dependencies:**
-```bash
-pip install -r requirements.txt```
-```
+   ```bash
+   pip install -r requirements.txt```
+   ```
 
 3. **Set up environment variables:**
 Create a .env file in the root directory and add your API keys and endpoints:
 
-```env
-DEEPSEEK_API_ENDPOINT=https://api.deepseek.example/v1/chat
-DEEPSEEK_API_KEY=your_deepseek_api_key
-CHATGPT_API_ENDPOINT=https://api.chatgpt.example/v1/chat
-CHATGPT_API_KEY=your_chatgpt_api_key
-ADDITIONAL_AI_API_ENDPOINT=https://api.additional-ai.example/v1/chat  # Optional
-ADDITIONAL_AI_API_KEY=your_additional_ai_api_key  # Optional
-```
-
+   ```env
+   DEEPSEEK_API_ENDPOINT=https://api.deepseek.example/v1/chat
+   DEEPSEEK_API_KEY=your_deepseek_api_key
+   CHATGPT_API_ENDPOINT=https://api.chatgpt.example/v1/chat
+   CHATGPT_API_KEY=your_chatgpt_api_key
+   ADDITIONAL_AI_API_ENDPOINT=https://api.additional-ai.example/v1/chat  # Optional
+   ADDITIONAL_AI_API_KEY=your_additional_ai_api_key  # Optional
+   ```
+   
 ---
 
 ### **Usage**
 Run the script:
 
-```bash
-python tuzungumze.py
-```
+   ```bash
+   python tuzungumze.py
+   ```
 Enter your prompt when prompted:
 
-```
-Enter your prompt (or type 'exit' to quit): What is the future of AI collaboration?
-View the responses from DeepSeek, ChatGPT, and any additional AI systems.
-```
+   ```
+   Enter your prompt (or type 'exit' to quit): What is the future of AI collaboration?
+   View the responses from DeepSeek, ChatGPT, and any additional AI systems.
+   ```
 
 ---
 

@@ -49,12 +49,12 @@ Create a .env file in the root directory and add your API keys and endpoints:
 ---
 
 ### **Usage**
-Run the script:
+1. **Run the script**:
 
    ```bash
    python tuzungumze.py
    ```
-Enter your prompt when prompted:
+2. **Enter your prompt when prompted**:
 
    ```
    Enter your prompt (or type 'exit' to quit): What is the future of AI collaboration?
